@@ -2,7 +2,6 @@
 <h3 align="center">Software Engineer creating seamless digital experiences.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anry001&label=Profile%20views&color=0e75b6&style=flat" alt="anry001" /> </p>
 
 - 🔭 I’m currently working on **Guini web app**
 
@@ -111,3 +110,4 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anry001&show_icons=true&theme=tokyonight&locale=en" alt="anry001" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anry001&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="anry001" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anry001&label=Profile%20views&color=0e75b6&style=flat" alt="anry001" /> </p>
