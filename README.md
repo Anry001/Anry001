@@ -107,17 +107,9 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anry001&show_icons=true&theme=tokyonight&locale=en" alt="anry001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anry001&show_icons=true&theme=tokyonight&locale=en" alt="anry001" /></p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=anry001&show_icons=true&theme=tokyonight&locale=en&layout=compact"
-    alt="anry001"
-  />
-</p>
-
-<p align="left">
+<p align="right">
   <img
     src="https://komarev.com/ghpvc/?username=anry001&label=Profile%20views&color=0e75b6&style=flat"
     alt="anry001"
