@@ -117,4 +117,9 @@
   />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anry001&label=Profile%20views&color=0e75b6&style=flat" alt="anry001" /> </p>
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=anry001&label=Profile%20views&color=0e75b6&style=flat"
+    alt="anry001"
+  />
+</p>
