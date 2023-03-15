@@ -107,7 +107,7 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anry001&show_icons=true&theme=tokyonight&locale=en" alt="anry001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anry001&show_icons=true&theme=synthwave&locale=en" alt="anry001" /></p>
 
 <p align="left">
   <img
